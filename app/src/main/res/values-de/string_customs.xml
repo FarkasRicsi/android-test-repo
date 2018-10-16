@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- VÁM információ és kalkulátor -->
+	<string name="key3">value3A</string>
+	<!--<string name="customs_kiosk_welcome_text">Wir begrüssen Sie im Informationssystem für Reisenden des Nationales Steuer und Zollamtes</string>-->
+
+	<string name="key3">value3B</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application -->
+    <string name="key1">val%1$due1 %2$s</string>
+    <string name="key2">value2%2$r</string>
+    
+    <!--
+			\n\nForgalom iránya/Direction of traffic: kilépő/exit; belépő/entry  
+		\nTendencia/Tendency:stagnál/stagnates; növekszik/increases; csökken/decreases  
+		\nA várakozási idők kialakulásának oka/Reasons of waiting times: 
+		\n
+		■ A – megnövekedett forgalom/unexpectedly increased traffic \n
+		■ B – tervezetten megnövekedett forgalom/planned increased traffic \n
+		■ C – társszervek ellenőrzési módszereinek szigorítása,/severity of control methods of other border authorities \n
+		■ D – szomszédos ország határrendészeti szerveinek eljárásai/procedures of border police services of the neighbouring country \n
+		■ E – soronkívüliséget élvező szállítmányok száma/number of cargos without queuing \n
+		■ F – határátkelőhelyek áteresztőképességének a csökkenése/decreasing of penetrability of Border-Crossings \n
+		■ G – sorozatosan pontatlan okmány kitöltések/serially inaccurate fillings of documents \n
+		■ H – kamionblokád/blockade of camions \n
+		■ I – áramszünet, számítógépes rendszer problémája/black-out, fallback of IT systems \n
+		■ J – személygépkocsi import/car import \n
+		■ K – egyéb/others \n
+    -->
+
+</resources>

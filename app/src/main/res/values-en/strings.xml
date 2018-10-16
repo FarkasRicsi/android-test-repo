@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="key8">value8</string>
+    <string name="key9">value9</string>
+	
+	<color name="c4">444444</color> 
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General -->
+    <string name="key4">value4</string>
+    <string name="key5">value5</string>
+
+</resources>
