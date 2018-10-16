@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="hu.ponte.mobile.navmobil"
+    package="hu.asdf.mobile.bababab"
     android:versionCode="41"
     android:versionName="1.0" >
 	
@@ -14,7 +14,7 @@
         android:theme="@style/AppTheme"
         tools:replace="android:label">
         <activity
-            android:name="hu.ponte.mobile.navmobil.MainActivity"
+            android:name="hu.asdf.mobile.navmobil.MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/application_name" >
             <intent-filter>
@@ -23,13 +23,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="hu.ponte.mobile.navmobil.ContactMapActivity"
+            android:name="hu.asdf.mobile.navmobil.ContactMapActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/map"
             android:windowSoftInputMode="stateAlwaysHidden">                        
         </activity>
         <activity
-            android:name="hu.ponte.mobile.navmobil.TaxCalendarDeviceAssociationActivity"
+            android:name="hu.asdf.mobile.babababa.Tasdfty"
             android:configChanges="orientation|screenSize"
             android:label="@string/application_name"
             android:windowSoftInputMode="stateAlwaysHidden">
@@ -37,7 +37,7 @@
 	            <action android:name="android.intent.action.VIEW" />
 	            <category android:name="android.intent.category.DEFAULT" />
 	            <category android:name="android.intent.category.BROWSABLE" />
-	            <data android:scheme="navmobile" android:host="da" />
+	            <data android:scheme="babababa" android:host="da" />
         	</intent-filter>            
         </activity>
         
